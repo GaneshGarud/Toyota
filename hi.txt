@@ -1,6 +1,9 @@
 Hi
 Hello
 how are you?
+
+I am fine. Thanks
+
 Welcome to DSS
 I am fine
 git lecture timing 08:30 am to 10:30Am
