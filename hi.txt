@@ -4,3 +4,4 @@ how are you?
 Welcome to DSS
 I am fine
 git lecture timing 08:30 am to 10:30Am
+Welcome to git lecture
